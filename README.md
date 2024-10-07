@@ -1,0 +1,1 @@
+This Distributed Database project incorporates an Employee Management System using PL/SQL, featuring the implementation of procedures, functions, and triggers. It effectively manages employee data across distributed databases with enhanced functionalities.
